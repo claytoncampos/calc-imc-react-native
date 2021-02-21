@@ -2,4 +2,4 @@
 
 App mobile para calcular o IMC
 
-<img src="./calcIMC/assets/screen.png" width="400px">
+<img src="./assets/screen.png" width="400px">
